@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 print("Hello")
+<<<<<<< HEAD
+print("Hello world")
+print("SKP learning")
+=======
 print("Hellooooooooooooooooo world")
 =======
 <<<<<<< HEAD
@@ -34,3 +38,4 @@ print("Hello world")
 =======
 >>>>>>> 127532a5ae94e9ccd62b16449402d4d72bfee304
 >>>>>>> bf2f6ff08f78c75dd96ae18c1512d303d861f9d3
+>>>>>>> daa9137bd93610e2544e9bc0d608055bc2c5749d
