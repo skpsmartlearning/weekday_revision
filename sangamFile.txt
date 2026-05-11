@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+print("hello")
+print("hello")
+=======
 print("hello sushant")
+>>>>>>> c63c3d550222cf5be6cffe597a2a801bbd5b4229
