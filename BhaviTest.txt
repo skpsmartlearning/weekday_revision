@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+This is my first file kunal.txt
+=======
 This is my first file shashi
+>>>>>>> cb728fe387323bfb1607bf4dbf01e3606e84245d
