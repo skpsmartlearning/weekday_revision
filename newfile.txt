@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Hello 
-
-How are you
-=======
-Hello snehal 
->>>>>>> 349ad861ece14bcd74051fb1b5dbec916c4e536c

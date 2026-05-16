@@ -9,6 +9,7 @@ select * from customers c
 where c.CustomerID not in (select o.customerid from orders o)
 
 ---3
+----4
 select c.customername, count(o.orderid) as 'Total Order' from customers c, orders o
 where c.CustomerID=o.CustomerID
 group by c.customername
