@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-This is my first file sai
-=======
-<<<<<<< HEAD
-This is my first file kunal.txt
-=======
-This is my first file shashi
->>>>>>> cb728fe387323bfb1607bf4dbf01e3606e84245d
->>>>>>> d82fb0b558ba93dbea1c834e97bda0c9f010c0e7
