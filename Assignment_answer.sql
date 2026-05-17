@@ -4,20 +4,7 @@ select * from sys.tables
 select * from customers c, orders o
 where c.CustomerID=o.customerID
 
-----2
-select * from customers c
-where c.CustomerID not in (select o.customerid from orders o)
 
----3
-----4
-select c.customername, count(o.orderid) as 'Total Order' from customers c, orders o
-where c.CustomerID=o.CustomerID
-group by c.customername
-order by count(o.OrderID) desc
-
------4
-select top (5) c.customername,  count(o.orderid) as 'TotalOrder' from customers c, orders o
-where c.CustomerID=o.CustomerID
 group by c.customername
 order by count(o.OrderID) desc
 
@@ -146,7 +133,7 @@ od.ProductID=p.ProductID
 order by Revenue desc
 
 
-
+''''
 
 
 
