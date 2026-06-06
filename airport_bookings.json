@@ -1,0 +1,32 @@
+{
+  "airport_id": 101,
+  "airport_name": "Heathrow Airport",
+  "city": "London",
+  "country": "UK",
+  "bookings": [
+    {
+      "booking_id": 1,
+      "flight_id": 1001,
+      "amount": 5500,
+      "booking_date": "2024-01-10",
+      "passenger": {
+        "passenger_id": 201,
+        "name": "John Doe",
+        "gender": "Male",
+        "nationality": "UK"
+      }
+    },
+    {
+      "booking_id": 2,
+      "flight_id": 1002,
+      "amount": 7200,
+      "booking_date": "2024-01-12",
+      "passenger": {
+        "passenger_id": 202,
+        "name": "Mary Jane",
+        "gender": "Female",
+        "nationality": "USA"
+      }
+    }
+  ]
+}
