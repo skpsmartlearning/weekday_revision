@@ -1,3 +1,1 @@
-I am Shashi
-I am from Delhi
-I am a Data Engineer
+I am Shashi and want to transition from MR to Data Engineer
