@@ -1,0 +1,11 @@
+git clone
+cd
+git checkout -b "feature/june"
+do changes
+git status
+git add -A
+git commit -m ""
+git push origin feature/june
+
+in git compare/pull request
+
