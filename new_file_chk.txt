@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+This the new file been added on June 7/2026
+=======
+This the new file been added on June 7
+New changes added
+>>>>>>> ab457a86e6cfcbe64a4289cf7f0efd4318d766aa
